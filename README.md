@@ -29,7 +29,7 @@ Dentro de las aptitudes que queremos evaluar está:
 
 ## Prueba Técnica.
 
-** ! Partamos del echo de que es una aplicación bastante grande ! **
+** ! Partamos del echo de que es la base una aplicación bastante grande ! **
 
 Deberás realizar las siguientes tareas:
 
